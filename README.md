@@ -24,6 +24,13 @@ Un ajustement de l’offre ou une diversification pourrait améliorer la perform
 Le taux de réachat montre l’existence de clients récurrents, mais laisse entrevoir
 un potentiel d’amélioration via des actions marketing dédiées.
 
+### 📊 Aperçu des résultats
+
+![Total Revenue](images/total_revenue.png)
+![Monthly Revenue](images/monthly_revenue.png)
+![Top Customers](images/top_customers.png)
+
+
 
 
 ## 💡 Recommandations
